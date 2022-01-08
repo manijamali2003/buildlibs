@@ -1,0 +1,8 @@
+name[en]: Example
+name[fa]: مثال
+logo: @icon/app
+exec: example
+application: Yes
+game: Yes
+category: games
+pin: No

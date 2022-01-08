@@ -80,3 +80,23 @@ compile: Yes
 ## Examples folder
 
 You can use example projects in this folder
+
+## Publish project in Main repo of Pyabr
+
+After building project you should send your packages `*.pa` in `build-packs` to `manijamali2003@gmail.com` email
+
+- Your subject: 
+```text
+Pushing an application in Pyabr Operating System
+```
+
+- Your text:
+```text
+package name: [your package name]
+package version: [your package version]
+developers: [creators and developers]
+company: [your company]
+source: [Open source or Close source]
+all licenses: [please upload or write your license name or license code; if the contents in your project is nonfree you should upload your license]
+price: [Price of your project]
+```

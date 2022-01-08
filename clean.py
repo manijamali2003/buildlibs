@@ -17,7 +17,7 @@
     * English Page:     https://en.pyabr.ir
 '''
 
-import os, shutil,sys
+import os, shutil
 
 def clean():
     if os.path.isdir ('app'):                                           shutil.rmtree('app')

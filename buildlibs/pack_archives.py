@@ -127,5 +127,4 @@ def buildpacks ():
     list = os.listdir('packs')
     for i in list:
         if os.path.isdir('packs/'+i):
-            manifest(i)
             build(i)

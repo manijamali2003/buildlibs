@@ -1,0 +1,10 @@
+name: com.example.example
+name[en]: Example
+name[fa]: مثال
+unpack: /
+entry: example
+license: Free Software
+copyright: (c) 2021 Mani Jamali
+description: Example build-libs application for Pyabr
+version: 1.0.0
+build: 1400-10-18

@@ -1,4 +1,4 @@
-# C++ Project
+# Unity Game Project
 
 - Copy example to `packs/`
 - Set `compile: Yes` in `manifest`

@@ -1,4 +1,4 @@
-# C++ Project
+# Windows Application Project
 
 - Copy example to `packs/`
 - Set `compile: No` in `manifest`
